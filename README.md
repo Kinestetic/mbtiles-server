@@ -14,6 +14,3 @@ First, just create an mbtiles file (via Tilemill probably cause it's freaking am
 }
 ```
 3. run `node server.js [PORT]`
-
-
-Inspired by
