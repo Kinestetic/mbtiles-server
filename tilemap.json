@@ -1,0 +1,4 @@
+{
+  "layername": "path/to/file.mbtiles",
+  "another_layer": "path/to/another_file.mbtiles"
+}
