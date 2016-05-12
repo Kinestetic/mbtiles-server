@@ -13,8 +13,9 @@ First, just create an mbtiles file (via Tilemill probably cause it's freaking am
  "another_layer": "path/to/another_file.mbtiles"
 }
 ```
+
 3. run `node server.js [PORT]`
 
 Default port is 3000
 
-Tiles will be available on http://localhost:[PORT]/layername/{z}/{x}/{y}
+Tiles will be available on http://localhost:[PORT]/layername/{z}/{x}/{y}.png
